@@ -10,7 +10,7 @@
  
 // Song title in img folder
 
-const songs = ['feel something', 'Mehrama', 'Tightrope'];
+const songs = ['Mehrama','feel something','Tightrope'];
 
 // keep the track of the songs available
 
